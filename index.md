@@ -10,7 +10,7 @@ title: Project Interoperability
 
 IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
 
-We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. These tools are based on the Information Interoperability Framework, or I2F. Learn more about us at [ISE.gov](http://ise.gov).
+We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about us at [ISE.gov](http://ise.gov).
 
 ----------------
 
