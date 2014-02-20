@@ -3,26 +3,20 @@ published: true
 permalink: /
 layout: hero
 filename: index.md
-title: Project Open Data
+title: Project Interoperability
 ---
 
 ##1. Background
 
-Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
-
-For example, when the U.S. Government released weather and GPS data to the public, it fueled an industry that today is valued at tens of billions of dollars per year. Now, weather and mapping tools are ubiquitous and help everyday Americans [navigate their lives](business-case/). 
-
-The ultimate value of data can often not be predicted. That’s why the U.S. Government released a [policy](policy-memo/) that instructs agencies to manage their data, and information more generally, as an asset from the start and, wherever possible, release it to the public in a way that makes it open, discoverable, and usable. 
-
-The White House developed Project Open Data – this collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data. Project Open Data will evolve over time as a community resource to facilitate broader adoption of open data practices in government. Anyone – government employees, contractors, developers, the general public – can view and contribute. Learn more about [Project Open Data Governance](governance/) and dive right in and help to build a better world through the power of open data. 
+We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about us at [ISE.gov](http://ise.gov).
 
 ----------------
 
-##2. Definitions
+##2. Interoperability Tools
 
-This section is a list of definitions and principles used to guide the project.
+This section is a list of tools and resources for building information interoperability. They primarily link to resources within the Information Interoperability Framework document.
 
-2-1 [Open Data Principles](principles/) - The set of open data principles.
+2-1 [System Architect](principles/) - This is a guideline for system architects.
 
 2-2 [Standards, Specifications, and Formats](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
 
@@ -34,9 +28,9 @@ This section is a list of definitions and principles used to guide the project.
 
 ----------------
 
-##3. Implementation Guidance
+##3. Components of the Information Interoerpability Framework (I2F)
 
-Implementation guidance for open data practices.  
+We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it.
 
 3-1 [U.S. Government Policy on Open Data](/policy-memo/) - Full text of the memorandum.  
 
