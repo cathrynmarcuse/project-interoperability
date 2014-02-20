@@ -1,6 +1,6 @@
 # Project Interoperability
 
-[![Build Status](https://travis-ci.org/project-open-data/project-open-data.github.io.png?branch=master)](https://travis-ci.org/project-open-data/project-open-data.github.io)
+IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
 
 ## Problem this Solves
 
