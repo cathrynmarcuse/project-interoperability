@@ -1,18 +1,18 @@
-# Project Open Data
+# Project Interoperability
 
 [![Build Status](https://travis-ci.org/project-open-data/project-open-data.github.io.png?branch=master)](https://travis-ci.org/project-open-data/project-open-data.github.io)
 
 ## Problem this Solves
 
-Technology moves much faster than policy ever could.  Often when writing policy for technology, agencies are stuck w/ outdated methods as soon as they publish new policies.
+Our government needs to share information better, faster, and smarter. Our mission is to improve the government's ability to share the right information, with the right people, at the right time.
 
 ## How this Project Solves this Problem
 
-This Appendix is meant to be a living document so that collaboration in the open data ecosystem is fostered and the continual update of technology pieces that affect update can happen on a more rapid pace.
+We're providing these guidelines and tools to collaborate with our partners to develop information interoperability in government. We hope you'll help us improve this. This project is based on [Project Open Data](http://project-open-data.github.io). Imitation is the sincerest form of flattery.
 
 ## Where You Come In
 
-Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here.
+Help the United States Government develop information interoperability better by collaborating.  Please suggest enhancements by editing the content here.
 
 ## How to Contribute
 
