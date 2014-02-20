@@ -64,8 +64,10 @@ This section is a list of tools and resources for building information interoper
 
 2-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I2F tools.
 
-----------------
 !-->
+
+----------------
+
 ##4. More
 
 We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it. You can [download the I2F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
