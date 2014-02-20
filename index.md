@@ -8,6 +8,8 @@ title: Project Interoperability
 
 ##1. Background
 
+IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
+
 We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about us at [ISE.gov](http://ise.gov).
 
 ----------------
@@ -28,9 +30,9 @@ This section is a list of tools and resources for building information interoper
 
 ----------------
 
-##3. Components of the Information Interoerpability Framework (I2F)
+##3. Components of the Information Interoperability Framework (I2F)
 
-We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it.
+We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it. You can download the PDF, as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
 3-1 [U.S. Government Policy on Open Data](/policy-memo/) - Full text of the memorandum.  
 
