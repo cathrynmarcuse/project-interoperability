@@ -10,7 +10,7 @@ title: Project Interoperability
 
 IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
 
-We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about us at [ISE.gov](http://ise.gov).
+We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. These tools are based on the Information Interoperability Framework, or I2F. Learn more about us at [ISE.gov](http://ise.gov).
 
 ----------------
 
@@ -18,104 +18,45 @@ We hope you help us improve and adopt this as a resource to build information in
 
 This section is a list of tools and resources for building information interoperability. They primarily link to resources within the Information Interoperability Framework document.
 
-2-1 [System Architect](principles/) - This is a guideline for system architects.
+2-1 [Interoperabiilty Objectives and Usage](principles/) - This is a guideline for system architects.
 
-2-2 [Standards, Specifications, and Formats](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
+2-2 [Vision and Sustainability](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
 
-2-3 [Open Data Glossary](glossary/) - The glossary of open data terms.
+2-3 [ISE Information Integrated Landscape](glossary/) - The glossary of open data terms.
 
-2-4 [Open Licenses](open-licenses/) - The definition for open licenses. 
+2-4 [ISE Information Interoperability Framework](open-licenses/) - The definition for open licenses. 
 
-2-5 [Common Core Metadata](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data.  
+2-5 [Exchange Patterns](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data. 
+
+2-6 [Architecture Framework Alignment](glossary/) - More I2F tools.
+
+2-7 [Building Interoperability into Mission-based Architectures](glossary/) - Review Reference Architecture and Assess
+
+2-8 [Building Interoperability into Mission-based Architectures](glossary/) - Vet Reference Architecture and Build in Information Interoperability
+
+2-9 [Information Sharing Environment Common Profile Usage](glossary/) - More I2F tools.
+
+2-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I2F tools.
 
 ----------------
 
 ##3. Components of the Information Interoperability Framework (I2F)
 
-We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it. You can download the PDF, as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
+We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it. You can [download the I2F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
-3-1 [U.S. Government Policy on Open Data](/policy-memo/) - Full text of the memorandum.  
+3-1 [Chapter 1](/policy-memo/) - Full text of the memorandum.  
 
-3-2 [Implementation Guide](/implementation-guide/) - Official OMB implementation guidance for each step of implementing the policy. 
+3-2 [Chapter 2](/implementation-guide/) - Official OMB implementation guidance for each step of implementing the policy. 
 
-3-3 [Public Data Listing](/catalog/) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.  
+3-3 [Chapter 3](/catalog/) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.  
 
-3-4 [Frequently Asked Questions](/faq/) - A growing list of common questions and answers to facilitate adoption of open data projects.  
+3-4 [Chapter 4](/faq/) - A growing list of common questions and answers to facilitate adoption of open data projects.  
 
-3-5 [Open Data Cross Priority (CAP) Goal](http://goals.performance.gov/opendata) - Information on the development of the Open Data CAP goal as required in the [Open Data Executive Order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government). 
-
-----------------
-
-##4. Tools 
-
-This section is a list of ready-to-use solutions or tools that will help agencies jump-start their open efforts.  These are real, implementable, coded solutions that were developed to significantly reduce the barrier to implementing open data at your agency.  Many of these tools are hosted at [Labs.Data.gov](http://labs.data.gov) and developers are encouraged to contribute improvements to them and contribute other tools which help us implement the spirit of Project Open Data.
-
-4-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases. -&nbsp;*[Hosted](http://labs.data.gov/db-to-api/readme.md)*
- 
-4-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML. -&nbsp;*[Hosted](http://labs.data.gov/csv-to-api/)*
-
-4-3 [Spatial Search](https://github.com/project-open-data/SpatialSearch) - A RESTful API that allows the user to query geographic entities by latitude and longitude, and extract data.
-
-4-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.  
-
-4-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information. -&nbsp;*[Hosted](http://labs.data.gov/pdf-filler)*
-
-4-6 [Catalog Generator](https://github.com/project-open-data/catalog-generator) - Multi-format tool to generate and maintain agency.gov/data catalog files. -&nbsp;*[Hosted](http://project-open-data.github.com/catalog-generator/)*
-
-4-7 A data.json validator can help you check compliance with the POD schema. There is one [hosted at Project Open Data](http://project-open-data.github.com/json-validator/); another [written by Dave Caraway](http://dwcaraway.github.io/podschema/validate.html); and [another one written by HHS](http://hub.healthdata.gov/pod/validate).
-
-4-8 [Project Open Data Dashboard](http://data.civicagency.org) - A dashboard to check the status of /data and /data.json at each agency. This also includes a validator.
-
-4-9 [Data.json File Merger](http://data.json.file.merger.ongithub.com/) - Allows the easy combination of multiple data.json files from component agencies or bureaus into one combined file.  
-
-4-10 [API Sandbox](http://project-open-data.github.com/api-sandbox) - Interactive API documentation systems.
-
-4-11 [CFPB Project Qu](https://github.com/cfpb/qu) - The CFPB's in-progress data publishing platform, created to serve public data sets.
-
-4-12 [HMDA Tools](http://https://github.com/cfpb/hmda-tools) - Lightweight tools to make importing and analyzing [Home Mortgage Disclosure Act](http://en.wikipedia.org/wiki/Home_Mortgage_Disclosure_Act) data easier.
-
-4-13 [ESRI2Open](http://github.com/project-open-data/esri2open) - A tool which converts spatial and non-spatial data form ESRI only formats to the Open Data formats, CSV, JSON, or GeoJSON, making them more a part of the WWW ecology.
-
-4-14 [ckanext-datajson](https://github.com/HHS/ckanext-datajson) - A CKAN extension to generate agency.gov/data.json catalog files.
-
-4-15 [DKAN](http://drupal.org/project/dkan) - An open data portal modeled on [CKAN](http://ckan.org/). DKAN is a stand alone Drupal distribution that allows anyone to spin up an open data portal in minutes as well as two modules, [DKAN Dataset](http://drupal.org/project/dkan_dataset) and [DKAN Datastore](http://drupal.org/project/dkan_datastore), that can be added to existing Drupal sites to add data portal functionality to an exist Drupal site.
-
-4-16 [DataVizWiz](https://drupal.org/project/datavizwiz) - A [Drupal](http://drupal.org) module that provides a fast way to get data vizualizations online.
-
-4-17 [Esri Geoportal Server](https://github.com/Esri/geoportal-server/) - Open source catalog supporting ISO/FGDC/DC/... metadata with mapping to DCAT to support agency.gov/data.json listings in addition to providing [OGC CSW](http://www.opengeospatial.org/standards/cat), [OAI-PMH](http://www.openarchives.org/pmh/) and [OpenSearch](http://www.opensearch.org). Supports automated harvesting from other open catalog sources.
-
-4-18 [Libre Information Batch Restructuring Engine](https://github.com/commonwealth-of-puerto-rico/libre) - Open data conversion and API tool, created by the Office of the Chief Information Officer of the Commonwealth of Puerto Rico.  
+3-5 [Chapter 5](http://goals.performance.gov/opendata) - Information on the development of the Open Data CAP goal as required in the [Open Data Executive Order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government). 
 
 ----------------
 
-##5. Resources
-
-This section contains programmatic tools, resources, and/or checklists to help programs determine open data requirements.
-
-5-1 [Metadata Resources](metadata-resources/) - 
-Resources to provide guidance and assistance for each aspect of creating and maintaining agency.gov/data catalog files.  
-
-5-2 [Business Case for Open Data](business-case/) - Overview of the benefits associated with open data.  
-
-5-3 [General Workflows for Open Data Projects](future-case-study/) - A comprehensive overview of the steps involved in open data projects and their associated benefits.  
-
-5-4 [Open License Examples](license-examples/) - Potential licenses for data and content.  
-
-5-5 [API Basics](api-basics/) - Introductory resources for understanding application programming interfaces (APIs).
-
-5-6 [Data Release Safeguard Checklist](http://www.data.gov/sites/default/files/attachments/Privacy%20and%20Security%20Checklist.pdf) - Checklist to enable the safe and secure release of data.
-
-5-7 [Digital PII Checklist](digital-pii-checklist/) - Tool to assist agencies identify personally identifiable information in data.
-
-5-8 [Applying the Open Data Policy to Federal Awards: FAQ](federal-awards-faq/) - Frequently asked questions for contracting officers, grant professionals and the federal acquisitions community on applying the Open Data Policy to federal awards. 
-
-5-9 [Example Policy Documents](policy-docs/) - Collection of memos, guidance and policy documents about open data for reference.
-
-5-10 [Example Data Hubs](/data-hubs) - Collection of department, agency, and program data sites across the federal government.
-
-----------------
-
-##6. Case Studies
+##4. Case Studies
 
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
