@@ -16,6 +16,32 @@ We hope you help us improve and adopt this as a resource to build information in
 
 ##2. Interoperability Tools
 
+
+2-1 [Common Profile](principles/) - This is a guideline for system architects.
+
+2-2 [Springboard](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
+
+2-3 [Architecture Alignment](glossary/) - The glossary of open data terms.
+
+2-4 [Maturity Model](open-licenses/) - The definition for open licenses. 
+
+2-5 [Reference Architecture Template](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data. 
+
+2-6 [Geospatial Interoperability](glossary/) - More I2F tools.
+
+2-7 [Attribute Exchange](glossary/) - Review Reference Architecture and Assess
+
+2-8 [Identity and Access Management](glossary/) - Vet Reference Architecture and Build in Information Interoperability
+
+2-9 [Exchange Patterns](glossary/) - More I2F tools.
+
+2-10 [National Information Exchange Model (NIEM)](glossary/) - More I2F tools.
+
+
+----------------
+
+##3. I2F Tools
+
 This section is a list of tools and resources for building information interoperability. They primarily link to resources within the Information Interoperability Framework document.
 
 2-1 [Interoperabiilty Objectives and Usage](principles/) - This is a guideline for system architects.
